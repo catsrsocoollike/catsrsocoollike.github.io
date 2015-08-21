@@ -1,0 +1,42 @@
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:2px;
+    float:none;
+    width:1280px
+}
+#nav {
+    line-height:30px;
+    background-color:peachpuff;
+    height:394px;
+    width:228px;
+    float:right;
+    padding:5px; 
+    
+}
+
+section{
+    width:1024px;
+    height:250px;
+    float:left;
+    padding:10px;
+    background-color:peachpuff
+}
+article{
+    width:1024px;
+    height:500px;
+    background-color:azure
+}
+
+p{
+    color:black;
+    font-family:Helvetica;
+    text-align:left;
+    font-size: 23px
+    
+}
+
+
+    
+
